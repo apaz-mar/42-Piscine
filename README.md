@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaron-PM
+- 👋 Hi, I’m @apaz-mar
 - 👀 I’m interested in different approaches to subjects.
 - 🌱 I’m currently learning at 42 Berlin.
 - 💞️ I’m looking to collaborate on 42 subjects.
